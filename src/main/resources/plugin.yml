@@ -1,0 +1,8 @@
+name: ArmorBackpack
+author: Onenrico
+version: '1.0'
+description: Gives your armor a backpack
+main: me.onenrico.armorbackpack.main.Core
+api-version: '1.13'
+depend:
+  - ProtocolLib
